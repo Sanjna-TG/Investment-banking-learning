@@ -1,8 +1,21 @@
-**#Flipkart Case Study**
+**# Projects highlighting analytical and research skill**
 
-In this case study I have created acquisition scenario with projected EBITDA multiples. With Investment bankers expertise, Myntra aimed to align its financial strategies with long-term business goals while weathering short-term profitability challenges.
+1. Paytm IPO Report – Prepared investor brief using valuation metrics (DCF + market comps); identified key valuation risks.
 
-# Investment-banking-learning
+2. Flipkart M&A Scenario – Modeled strategic acquisition with peer benchmarking and EBITDA-based target pricing.
+
+3. IndusInd Bank Research Coverage – Drafted a mock institutional coverage note with key ratios, forecasts, and industry comparisons.
+
+4. HUL FX Hedging Strategy – Created options-based strategy to mitigate exposure to commodity and currency volatility.
+
+5. Netflix Acquisition Feasibility Study – Conducted strategic DCF with terminal value and risk-adjusted cash flows.
+
+6. US-India Trade Policy Impact Report – Evaluated tariff impacts on Indian sector indices and asset allocation behavior.
+
+7. Repo Rate change - A research paper analyzing the impact of repo rate changes on the Indian financial market, including monetary transmission effects, sectoral responses, and stock market behavior.
+
+
+**# Investment-banking-learning**
 A curated collection of notes, models, and concepts I'm learning on my journey to become an Investment Banker.
 # Investment Banking Basics
 
